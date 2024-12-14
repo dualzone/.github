@@ -31,7 +31,7 @@
 - **Une progression claire** : Vois ta montée en puissance à travers notre système de classement transparent ! 📈
 - **Une communauté active** : Rejoins une bande de passionnés de CS2 dans un environnement fun et compétitif ! 🕹️
 
-### Pour les recruteurs ou partenaires :
+### Pour les partenaires :
 - **Un projet innovant** : DualZone, la plateforme unique dédiée aux formats 1v1 et 2v2, parfaite pour des compétitions sur mesure ! 🔥
 - **Un travail de qualité** : Nous avons conçu DualZone pour offrir une expérience utilisateur moderne et fluide ! ⚙️
 
@@ -53,6 +53,19 @@ Si tu as des questions ou des suggestions, n’hésite pas à nous contacter :
 
 - **Site Web** : [dualzone.gg](https://dualzone.gg) 🌐
 - **Discord** : [Rejoindre notre communauté](https://discord.gg/NUejqEbYq4) 💬
+
+---
+
+## 👥 **Membres** 👥
+
+[gruv0o](https://github.com/gruv0o), [ManMaz](https://github.com/ManMazFr), [Simon Lou](https://github.com/SimonLou-Dev) & [xEd-N](https://github.com/xEd-N)
+
+<a src="https://github.com/gruv0o"><img src="https://avatars.githubusercontent.com/u/122018214?v=4" alt="test" width="50px" style="border-radius: 50%"  /> </a>
+<a src="https://github.com/gruv0o"><img src="https://avatars.githubusercontent.com/u/139132345?v=4" alt="test" width="50px" style="border-radius: 50%"  /> </a>
+<a src="https://github.com/gruv0o"><img src="https://avatars.githubusercontent.com/u/36455117?v=4" alt="test" width="50px" style="border-radius: 50%"  /> </a>
+<a src="https://github.com/gruv0o"><img src="https://avatars.githubusercontent.com/u/65870307?v=4" alt="test" width="50px" style="border-radius: 50%"  /> </a>
+
+
 
 ---
 
