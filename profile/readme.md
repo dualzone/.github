@@ -43,7 +43,7 @@
 2. Connecte-toi avec ton compte Steam 🎮
 3. Lance une recherche de match ou crée une partie privée avec tes amis ! 🙌
 
-Et n'oublie pas de rejoindre notre communauté sur Discord pour rester à jour avec les dernières nouveautés et événements ! 🎉 [Discord DualZone](https://discord.gg/dualzone)
+Et n'oublie pas de rejoindre notre communauté sur Discord pour rester à jour avec les dernières nouveautés et événements ! 🎉 [Discord DualZone](https://discord.gg/NUejqEbYq4)
 
 ---
 
