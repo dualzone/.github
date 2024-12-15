@@ -1,4 +1,4 @@
-<h1 align="center"> 🌟 **DualZone** 🌟 </h1>
+<h1 align="center"> 🌟DualZone 🌟 </h1>
 
 
 <p align="center"><a href="https://dualzone.gg" target="_blank"><img src="./logo.png" alt="next.js" width="300" height="300" /></a></p>
